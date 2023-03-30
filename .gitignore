@@ -1,4 +1,0 @@
-#ignore files *.rus
-*.rus
-#ignore /cache
-cache/*
